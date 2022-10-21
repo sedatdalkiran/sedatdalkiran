@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **DL,ML**
 
 
-- 📫 How to reach me **linkedin.com/sedatdalkiran**
+- 📫 How to reach me **www.linkedin.com/sedatdalkiran**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15B5hxIFQdGEPZO-zpnMxtG40FiEiEddO/view?usp=sharing](https://drive.google.com/file/d/15B5hxIFQdGEPZO-zpnMxtG40FiEiEddO/view?usp=sharing)
 
