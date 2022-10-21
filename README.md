@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **DL,ML**
 
-- 👨‍💻 All of my projects are available at [github.com/sedatdalkiran](github.com/sedatdalkiran)
 
 - 📫 How to reach me **linkedin.com/sedatdalkiran**
 
